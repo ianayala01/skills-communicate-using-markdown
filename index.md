@@ -1,2 +1,3 @@
 # This is a Header
-I learned how to do a header
+
+![Image of cat thing] (https://octodex.github.com/images/yaktocat.png)
